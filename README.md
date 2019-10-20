@@ -1,6 +1,8 @@
 # BlockChain
 San José State University
+
 CS266: Topics in Information Security Autumn 2019
+
 Prof. Guha Jayachandran
 https://cs.stanford.edu/~guhaj/
 
