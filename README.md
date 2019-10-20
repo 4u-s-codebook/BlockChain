@@ -9,7 +9,8 @@ https://cs.stanford.edu/~guhaj/
 
 The goal of this project is to build a basic blockchain with a proof-of-work mechanism and Merkle tree-based data storage.
 
-Deliverables
+*Deliverables*
+
 1) Code that
 A) implements a blockchain—in particular, a main loop that repeatedly obtains new data
 and computes and outputs the hash ​H(d)​ of data structure ​d​ (see instructions below).
