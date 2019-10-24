@@ -28,5 +28,5 @@ Score : 10/10
 
 # 2) Provide a Merkle Tree-proof that a specific item is part of the Merkle Tree in an ancestor of the last block.   
  In detail, given the created blockchain after 5 blocks, show proof that the headline  
-  cabinet meets to balance budget priorities was “put on the blockchain.”
+  -->  "cabinet meets to balance budget priorities was “ put on the blockchain.
 
