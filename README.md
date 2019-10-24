@@ -12,21 +12,21 @@ Score : 10/10
 
 *Deliverables*
 
-# 1) Code that
+# 1) Code :
 
-  A)implements a blockchain—in particular, a main loop that repeatedly obtains new data and computes and outputs the hash   ​H(d)​ of data structure ​d​ .
+   A)implements a blockchain—in particular, a main loop that repeatedly obtains new data and computes and outputs the hash   ​H(d)​ of data structure ​d​ .
 
-  B) The data structure ​d​ must contain
+   B) The data structure ​d​ must contain
   - a hash of the previous block
   - a Merkle Tree (see instruction D below) 
   - a nonce
 
-  C) The first 16 (binary) digits of each block hash must be 0.
+   C) The first 16 (binary) digits of each block hash must be 0.
 
-  D) the Merkle Tree must be build from all valid elements received from the DataSimulator, i.e. all valid ​(publicKey, message, signature)​ tuples where the signature is valid
+   D) the Merkle Tree must be build from all valid elements received from the DataSimulator, i.e. all valid ​(publicKey, message, signature)​ tuples where the signature is valid
 
 
-# 2) Provide a Merkle Tree-proof that a specific item is part of the Merkle Tree in an ancestor of the last block. In detail, given the created blockchain after 5 blocks,
-show proof that the headline
+# 2) Provide a Merkle Tree-proof that a specific item is part of the Merkle Tree in an ancestor of the last block.   
+ In detail, given the created blockchain after 5 blocks, show proof that the headline  
   cabinet meets to balance budget priorities was “put on the blockchain.”
 
