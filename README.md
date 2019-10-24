@@ -12,7 +12,7 @@ Score : 10/10
 
 *Deliverables*
 
-1) Code that
+# 1) Code that
 
   A)implements a blockchain—in particular, a main loop that repeatedly obtains new data and computes and outputs the hash   ​H(d)​ of data structure ​d​ .
 
@@ -26,7 +26,7 @@ Score : 10/10
   D) the Merkle Tree must be build from all valid elements received from the DataSimulator, i.e. all valid ​(publicKey, message, signature)​ tuples where the signature is valid
 
 
-2) Provide a Merkle Tree-proof that a specific item is part of the Merkle Tree in an ancestor of the last block. In detail, given the created blockchain after 5 blocks,
+# 2) Provide a Merkle Tree-proof that a specific item is part of the Merkle Tree in an ancestor of the last block. In detail, given the created blockchain after 5 blocks,
 show proof that the headline
   cabinet meets to balance budget priorities was “put on the blockchain.”
 
